@@ -9,6 +9,7 @@ gem 'i18n', '0.4.2'
 
 #deploy
 gem 'capistrano'
+gem 'capistrano_colors'
 gem 'coderay'
 
 #backlogs
