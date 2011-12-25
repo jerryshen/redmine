@@ -23,4 +23,6 @@
 /vendor/rails
 *.rbc
 /.bundle
-
+Capfile
+config/deploy/*
+config/deploy.rb
