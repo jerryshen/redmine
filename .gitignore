@@ -21,6 +21,8 @@
 /tmp/sockets/*
 /tmp/test/*
 /vendor/rails
+/vendor/plugins/redmine_backlogs/
+redmine_backlogs_install.log
 *.rbc
 /.bundle
 Capfile
