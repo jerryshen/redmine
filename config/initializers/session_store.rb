@@ -17,5 +17,5 @@ ActionController::Base.session = {
   # See: http://www.redmine.org/issues/3968
   #
   # :session_path => '/url_path_to/your/redmine/',
-  :secret => 'baa48d06d9341f4be56f5c22b294a3361669a7bc44ccf67d0db10db5f132191b0a99291cc98b7a03'
+  :secret => '9352035fd446a0f2bc0ef1d4d642810c227721ac9b26b1f56a5a3fa5e9e86a1ca6606eceba3f9068'
 }
